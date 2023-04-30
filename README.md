@@ -1,1 +1,1 @@
-# Ivadomed five fold cross validation
+# ivadomed five fold cross validation
