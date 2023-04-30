@@ -5,8 +5,8 @@ def find_missing_contents(dir1, dir2):
     Finds the missing contents of dir1 compared to dir2.
 
     Parameters:
-    dir1 (str): The path to the first directory.
-    dir2 (str): The path to the second directory.
+    dir1 (str): The path to the first directory -- one of the fold directory.
+    dir2 (str): The path to the second directory -- original directory.
 
     Returns:
     A list of filenames that are in dir2 but not in dir1.
