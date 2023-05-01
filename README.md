@@ -1,6 +1,6 @@
 # ivadomed_five_fold
 
- ## Steps to run five fold cross validation using ivadomed
+ ## Steps to run five fold cross validation using [ivadomed](https://ivadomed.org)
 
  ### Step 1: Run the extract_train_val.py to extract a smaller dataset from the original BIDS dataset.
  - The random seed has to be changed 5 times to get 5 different sets the cross validation.
